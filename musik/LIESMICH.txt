@@ -1,0 +1,3 @@
+Lege hier deine MP3-Dateien ab. Mit "Spiegel, Musik an" werden sie in
+zufälliger Reihenfolge abgespielt. Die Dateien werden nicht zu GitHub
+hochgeladen (siehe .gitignore).
